@@ -85,3 +85,7 @@ module.exports = function(sequelize, DataTypes, services, options) {
   return Pages;
 };
 ```
+
+## CLI
+
+Use the [Sequelize CLI](https://github.com/sequelize/cli) for migrations and seeds.
